@@ -19,7 +19,7 @@ walking or feeding it, and sell all of their pets (for when they
 move to that tiny NYC studio after college).
 
 A `Dog` and a `Cat` are initialized with a name and an **Owner object**
-
+h
 ### Part I: Object Models
 
 - Define a `Dog` and `Cat` class that have the attributes required by the
